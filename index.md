@@ -121,7 +121,7 @@ plot.tight_layout()
 plot.show()
 
 
-<img src="static/imgs/declaredmajor.png" alt="COMP 110 Student Majors" width="1000">
+<img src="static/imgs/declaredmajor.png" alt="COMP 110 Student Majors" width="2000">
 
 Additionally, I want to see how many students intend to delcare a COMP major or minor.  To do so I will call count on comp_major.
 
