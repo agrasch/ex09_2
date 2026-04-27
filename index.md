@@ -6,13 +6,12 @@ layout: default
 # This is a big header
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## This is a small header
 
 This is basic paragraph text.
 
-THIS IS A TEST
 
 ## Part 1: Analysis for Continuous Improvement
 
@@ -139,7 +138,7 @@ plot.title("Are COMP110 Students Pursuing a COMP Major or Minor?")
 plot.tight_layout()
 plot.show()
 
-<img src= "static/imgs/majorminor.png" alt="COMP 110 Major and Minor Pursuit Interest" width="500">
+<img src="static/imgs/majorminor.png" alt="COMP 110 Major and Minor Pursuit Interest" width="500">
 
 Now, I want to see what proportion of students in the class are pursuing a COMP major or minor, to see if this presentation of other COMP courses would be suitable for the majority of the class, or best expressed through an email or external link that students could interact with if interested.  To do so, I will define a new function called filter_columns.  filter_columns will:
 - take in an input table, a column name, and a target value (in this case the desired major)
