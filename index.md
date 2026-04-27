@@ -12,6 +12,8 @@ layout: default
 
 This is basic paragraph text.
 
+THIS IS A TEST
+
 ## Part 1: Analysis for Continuous Improvement
 
 Continuous Improvement embraces a belief there is _always room to make things better_. It is a mindset and process we value and practice in this course. In this assignment, you are able to practice continuous improvement and contribute to the design ideas of the course.
