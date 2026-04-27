@@ -13,6 +13,8 @@ layout: default
 This is basic paragraph text.
 
 
+MY WEBSITE YAY
+
 ## Part 1: Analysis for Continuous Improvement
 
 Continuous Improvement embraces a belief there is _always room to make things better_. It is a mindset and process we value and practice in this course. In this assignment, you are able to practice continuous improvement and contribute to the design ideas of the course.
@@ -119,7 +121,7 @@ plot.tight_layout()
 plot.show()
 
 
-<img src="static/imgs/declaredmajor.png" alt="COMP 110 Student Majors" width="500">
+<img src="static/imgs/declaredmajor.png" alt="COMP 110 Student Majors" width="1000">
 
 Additionally, I want to see how many students intend to delcare a COMP major or minor.  To do so I will call count on comp_major.
 
