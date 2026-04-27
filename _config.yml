@@ -22,7 +22,7 @@ title: COMP110 Final Exercise Spring 2026
 email: agrasch@ad.unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This demonstrates the variety of skills learned throughout the COMP110 course at UNC Chapel Hill.
-baseurl: "/ex09" # the subpath of your site, e.g. /blog
+baseurl: "/ex09_2" # the subpath of your site, e.g. /blog
 url: "agrasch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: agrasch
 github_username:  agrasch
