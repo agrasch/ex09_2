@@ -96,7 +96,7 @@ plot.title("COMP Major Status vs. Prior COMP Course Experience")
 plot.tight_layout()
 plot.show()
 
-img src="<static\priorexperience.png" alt="COMP Major Status vs. Prior COMP experience Graph. "  width="500"/>
+<img src="static/imgs/priorexperience.png" alt="COMP Prior Experience Students" width="500">
 
 
 To understand whether or not a showcase of other COMP courses would reach meaningful audience, I want to see how many people in the class are COMP majors.  To do so, I will use count on the 'majors' column in relevant_data.
@@ -120,7 +120,7 @@ plot.tight_layout()
 plot.show()
 
 
-img src="<static\declaredmajor.png" alt="COMP 110 Student Majors."  width="500"/>
+<img src="static/imgs/declaredmajor.png" alt="COMP 110 Student Majors" width="500">
 
 Additionally, I want to see how many students intend to delcare a COMP major or minor.  To do so I will call count on comp_major.
 
@@ -139,7 +139,7 @@ plot.title("Are COMP110 Students Pursuing a COMP Major or Minor?")
 plot.tight_layout()
 plot.show()
 
-img src="<static\majorminor.png" alt="COMP Major or Minor Interest."  width="500"/>
+<img src= "static/imgs/majorminor.png" alt="COMP 110 Major and Minor Pursuit Interest" width="500">
 
 Now, I want to see what proportion of students in the class are pursuing a COMP major or minor, to see if this presentation of other COMP courses would be suitable for the majority of the class, or best expressed through an email or external link that students could interact with if interested.  To do so, I will define a new function called filter_columns.  filter_columns will:
 - take in an input table, a column name, and a target value (in this case the desired major)
